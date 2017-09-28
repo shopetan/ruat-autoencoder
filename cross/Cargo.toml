@@ -1,0 +1,6 @@
+[package]
+name = "cross"
+version = "0.1.0"
+authors = ["shopetan <shoppe_shopetan@yahoo.co.jp>"]
+
+[dependencies]
